@@ -63,9 +63,12 @@ Ngrok Authtoken
 ## Cerebras Vs Chatgpt
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/d72fc5b4-848c-41f8-9a51-17cde1288fad" />
 
-##Cerebras Hardware Capacity
+## Cerebras Hardware Capacity
 <img width="1157" alt="image" src="https://github.com/user-attachments/assets/ea93a58a-c890-4fee-8683-8231f92d6cca" />
 <img width="1110" alt="image" src="https://github.com/user-attachments/assets/77cdb81b-1b33-403a-af8a-e506c5726be2" />
+
+## Output 
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/2569a568-8c11-47fd-9f56-a5d275c88a92" />
 
 
 
