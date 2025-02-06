@@ -1,7 +1,5 @@
 # AI-HealthCare-Chatbot-System_Cerebras
 
-# AI Healthcare Chatbot Website for Medical Queries
-
 ## Project Overview
 The **AI Healthcare Chatbot Website for Medical Queries** is a project designed to enhance healthcare accessibility by providing users with an AI-driven chatbot for real-time medical consultations. The chatbot leverages advanced NLP and machine learning models to respond to health-related queries, perform symptom assessments, and offer medical guidance. Users can upload PDFs and DOCX files for personalized consultations. The integration of pre-trained ChatGPT models with Pinecone ensures quick, contextually relevant responses. The Geoapify API provides location-based services to help users find nearby hospitals.
 Integrating Cerebras Inference into AI Healthcare Chatbot can significantly enhance performance, with models like Llama 3.1 70B achieving up to 2,100 tokens per second—16 times faster than leading GPU solutions. This speed advantage is crucial in time-sensitive medical scenarios, enabling more rapid consultations. However, it's essential to ensure that the chatbot complies with HIPAA regulations to protect patient privacy and data security. 
@@ -63,7 +61,12 @@ Geoapify
 Ngrok Authtoken
 
 ## Cerebras Vs Chatgpt
-<img width="433" alt="Screenshot 2024-11-02 at 1 44 08 PM" src="https://github.com/user-attachments/assets/1bccbad5-8760-415b-8d16-4922c7d68a6a" />
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/d72fc5b4-848c-41f8-9a51-17cde1288fad" />
+
+##Cerebras Hardware Capacity
+<img width="1157" alt="image" src="https://github.com/user-attachments/assets/ea93a58a-c890-4fee-8683-8231f92d6cca" />
+<img width="1110" alt="image" src="https://github.com/user-attachments/assets/77cdb81b-1b33-403a-af8a-e506c5726be2" />
+
 
 
 ## License
