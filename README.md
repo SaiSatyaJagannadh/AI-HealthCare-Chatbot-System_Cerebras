@@ -68,6 +68,15 @@ Ngrok Authtoken
 <img width="1110" alt="image" src="https://github.com/user-attachments/assets/77cdb81b-1b33-403a-af8a-e506c5726be2" />
 
 ## Output 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/736a3fe8-0d4b-4bbd-ac66-e3d3a22c4769" />
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8a564572-54e3-495b-9863-16f7f06a34a0" />
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/31dc00cd-32e2-427a-8bc0-2807460011b7" />
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/024da246-ab7c-4c52-97e8-6d4e30137d34" />
+
+
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/2569a568-8c11-47fd-9f56-a5d275c88a92" />
 
 ## Video Demo 
